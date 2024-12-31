@@ -1,0 +1,4 @@
+name: GateCreator
+version: '1.0'
+main: stellontium.gateCreator.Main
+api-version: '1.21.4'
